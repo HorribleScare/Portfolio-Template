@@ -37,7 +37,7 @@ The template can be easily customized with personal data, project details, and b
 You are free to explore, reuse, and extend this code for learning, personal, or portfolio purposes.
 
 ## 📌 About This Repository
-This repository documents a front-end portfolio template created by **HorribleScare (David Hariadi)** and serves as a practical demonstration of web development skills using HTML, CSS, and JavaScript. It is intended as a foundation for building a personal portfolio website.
+This repository documents a front-end portfolio template created by David Hariadi and serves as a practical demonstration of web development skills using HTML, CSS, and JavaScript. It is intended as a foundation for building a personal portfolio website.
 
 ## 🎞️ Preview
 [![Portfolio Website Template Program Preview](https://img.youtube.com/vi/_YaXs-tk4Bo/0.jpg)](https://youtu.be/_YaXs-tk4Bo)
